@@ -19,3 +19,9 @@ export const invest = async (user: string, name: string) => {
   });
   if (!res.ok) throw await res.text();
 };
+
+export const getHistory = async (user: string) => {
+  const res = await fetch(`${API}/history/${user}`);
+  if (!res.ok) throw await res.text();
+  return res.json();
+};

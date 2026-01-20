@@ -120,5 +120,10 @@ namespace InvestmentsApi.Services
                 return true;
             }
         }
+        public IEnumerable<InvestmentHistory> GetUserHistory(string userName)
+        {
+            if (!_users.ContainsKey(userName)) throw new Exception("User not found");
+            return _users[userName].History;
+        }
     }
 }

@@ -53,6 +53,43 @@ export default function InvestmentConsole() {
           ))}
         </div>
 
+        {/* Investment History */}
+        <h3>📜 Investment History</h3>
+        <div className="table">
+          <div className="table-header">
+            <span>Name</span>
+            <span>Invested</span>
+            <span>Returned</span>
+            <span>Completed At</span>
+            <span></span>
+          </div>
+
+          {state.history.length === 0 && (
+            <div style={{ opacity: 0.6, padding: "8px 12px" }}>
+              No completed investments yet
+            </div>
+          )}
+
+          {state.history.map((h, idx) => (
+            <div
+              key={idx}
+              className="table-row"
+              style={{
+                display: "grid",
+                gridTemplateColumns: "repeat(5, 1fr)",
+                padding: "6px 12px",
+                borderBottom: "1px solid #1e293b",
+              }}
+            >
+              <span>{h.name}</span>
+              <span>${h.invested}</span>
+              <span style={{ color: "#10b981" }}>${h.returned}</span>
+              <span>{new Date(h.completedAt).toLocaleString()}</span>
+              <span></span>
+            </div>
+          ))}
+        </div>
+
         {/* Available Investments */}
         <h3>🧩 Available Investments</h3>
         <div className="table">
@@ -83,7 +120,6 @@ export default function InvestmentConsole() {
               }}
             />
           ))}
-
         </div>
 
       </div>

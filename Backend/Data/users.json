@@ -1,7 +1,7 @@
 [
   {
     "UserName": "Ayala",
-    "Balance": 1310,
+    "Balance": 1801,
     "ActiveInvestments": [],
     "History": [
       {
@@ -9,8 +9,32 @@
         "Invested": 100,
         "Returned": 250,
         "CompletedAt": "2026-01-17T21:54:29.8840737Z"
+      },
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 17,
+        "CompletedAt": "2026-01-20T16:52:06.1619748Z"
+      },
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 230,
+        "CompletedAt": "2026-01-20T16:53:50.1726159Z"
+      },
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 293,
+        "CompletedAt": "2026-01-20T16:55:14.0352244Z"
+      },
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 261,
+        "CompletedAt": "2026-01-20T16:57:16.3198961Z"
       }
     ],
-    "LastUpdated": "2026-01-17T21:54:29.8840737Z"
+    "LastUpdated": "2026-01-20T16:57:16.3199255Z"
   }
 ]

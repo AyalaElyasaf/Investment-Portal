@@ -43,4 +43,19 @@ public class InvestmentsController : ControllerBase
             return BadRequest(ex.Message);
         }
     }
+
+    [HttpGet("history/{userName}")]
+    public IActionResult GetHistory(string userName)
+    {
+        try
+        {
+            var history = _service.GetUserHistory(userName);
+            return Ok(history);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
 }
