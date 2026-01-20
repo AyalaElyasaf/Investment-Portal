@@ -32,7 +32,7 @@ namespace InvestmentsApi.Services
                 {
                     user = new UserAccount { UserName = name };
                     _users[name] = user;
-                    Save();
+                    Save(user);
                 }
                 return user;
             }
@@ -66,7 +66,7 @@ namespace InvestmentsApi.Services
                     EndTime = DateTime.UtcNow.Add(opt.Duration)
                 });
 
-                Save();
+                Save(user);
             }
         }
 
@@ -86,15 +86,13 @@ namespace InvestmentsApi.Services
                     CompletedAt = DateTime.UtcNow
                 });
 
-                Save();
+                Save(user);
             }
         }
 
-        private void Save()
+        private void Save(UserAccount user)
         {
-            foreach (var u in _users.Values)
-                u.LastUpdated = DateTime.UtcNow;
-
+            user.LastUpdated = DateTime.UtcNow;
             JsonStorage.SaveUsers(_users.Values);
         }
         public bool CanInvest(string userName, string investmentName, out string error)
