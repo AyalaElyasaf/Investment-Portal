@@ -19,17 +19,12 @@ The system allows users to:
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/AyalaElyasaf/Investment-Portal.git
 cd Investment-Portal
 2. Backend
-bash
-Copy code
 cd backend
 dotnet run
 3. Frontend
-bash
-Copy code
 cd frontend
 npm install
 npm run dev
