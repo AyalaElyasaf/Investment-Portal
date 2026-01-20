@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Done job!\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:services\\investmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\models\\investmentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:models\\investmentoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\models\\investmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:models\\investmenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\models\\activeinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:models\\activeinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\models\\investmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:models\\investmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\services\\jsonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:services\\jsonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\services\\investmentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:services\\investmentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|c:\\users\\user\\documents\\done job!\\backend\\controllers\\investmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703465-FF93-4B77-9641-22497EC7A77C}|InvestmentsApi.csproj|solutionrelative:controllers\\investmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:31:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonStorage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\JsonStorage.cs",
+              "RelativeDocumentMoniker": "Services\\JsonStorage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\JsonStorage.cs",
+              "RelativeToolTip": "Services\\JsonStorage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:30:36.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvestmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\InvestmentService.cs",
+              "RelativeDocumentMoniker": "Services\\InvestmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\InvestmentService.cs",
+              "RelativeToolTip": "Services\\InvestmentService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAnwEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:28:49.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:25:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvestmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentRequest.cs",
+              "RelativeDocumentMoniker": "Models\\InvestmentRequest.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentRequest.cs",
+              "RelativeToolTip": "Models\\InvestmentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:25:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvestmentHistory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentHistory.cs",
+              "RelativeDocumentMoniker": "Models\\InvestmentHistory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentHistory.cs",
+              "RelativeToolTip": "Models\\InvestmentHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:24:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Data\\users.json",
+              "RelativeDocumentMoniker": "Data\\users.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Data\\users.json",
+              "RelativeToolTip": "Data\\users.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T16:24:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvestmentOption.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentOption.cs",
+              "RelativeDocumentMoniker": "Models\\InvestmentOption.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\InvestmentOption.cs",
+              "RelativeToolTip": "Models\\InvestmentOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:08:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActiveInvestment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\ActiveInvestment.cs",
+              "RelativeDocumentMoniker": "Models\\ActiveInvestment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Models\\ActiveInvestment.cs",
+              "RelativeToolTip": "Models\\ActiveInvestment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:24:18.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvestmentWorker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\InvestmentWorker.cs",
+              "RelativeDocumentMoniker": "Services\\InvestmentWorker.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Services\\InvestmentWorker.cs",
+              "RelativeToolTip": "Services\\InvestmentWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:30:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvestmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Controllers\\InvestmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvestmentsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Done job!\\Backend\\Controllers\\InvestmentsController.cs",
+              "RelativeToolTip": "Controllers\\InvestmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:21:09.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

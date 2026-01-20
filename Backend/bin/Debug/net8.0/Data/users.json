@@ -1,0 +1,102 @@
+[
+  {
+    "UserName": "Ayala",
+    "Balance": 1310,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-17T21:54:29.8840737Z"
+      },
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 20,
+        "CompletedAt": "2026-01-17T22:24:49.1333506Z"
+      },
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-18T22:06:50.6700877Z"
+      }
+    ],
+    "LastUpdated": "2026-01-20T12:58:37.163912Z"
+  },
+  {
+    "UserName": "Tal",
+    "Balance": 1310,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-18T21:48:02.0507985Z"
+      },
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 20,
+        "CompletedAt": "2026-01-18T22:34:31.6283489Z"
+      },
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-18T22:35:05.9253495Z"
+      }
+    ],
+    "LastUpdated": "2026-01-20T12:58:37.1639123Z"
+  },
+  {
+    "UserName": "Shani",
+    "Balance": 1010,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 20,
+        "CompletedAt": "2026-01-18T22:30:23.9498081Z"
+      }
+    ],
+    "LastUpdated": "2026-01-20T12:58:37.1639125Z"
+  },
+  {
+    "UserName": "kkk",
+    "Balance": 1150,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-20T11:34:54.8586131Z"
+      }
+    ],
+    "LastUpdated": "2026-01-20T12:58:37.1639127Z"
+  },
+  {
+    "UserName": "ttt",
+    "Balance": 1020,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 20,
+        "CompletedAt": "2026-01-20T11:59:29.1486792Z"
+      },
+      {
+        "Name": "Short Term",
+        "Invested": 10,
+        "Returned": 20,
+        "CompletedAt": "2026-01-20T12:58:37.163909Z"
+      }
+    ],
+    "LastUpdated": "2026-01-20T12:58:37.1639128Z"
+  }
+]

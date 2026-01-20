@@ -1,0 +1,236 @@
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Desktop\עבודה\הכנה לעבודה\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Data\users.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Desktop\SIMENSE\InvestmentsApi-Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Data\users.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Documents\AAA\InvestmentsApi-Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Data\users.json
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\SIMENSE\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Desktop\SIMENSE\Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Data\users.json
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\AAA\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Documents\AAA\Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Data\users.json
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\InvestmentsApi.exe
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\InvestmentsApi.deps.json
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\InvestmentsApi.runtimeconfig.json
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\Done job!\Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.AssemblyInfo.cs
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets\msbuild.InvestmentsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.InvestmentsApi.props
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvestmentsApi.props
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvestmentsApi.props
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\scopedcss\bundle\InvestmentsApi.styles.css
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\Investme.60D519EC.Up2Date
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.dll
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\refint\InvestmentsApi.dll
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.pdb
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\InvestmentsApi.genruntimeconfig.cache
+C:\Users\user\Documents\Done job!\Backend\obj\Debug\net8.0\ref\InvestmentsApi.dll

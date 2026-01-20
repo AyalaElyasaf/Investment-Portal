@@ -1,0 +1,16 @@
+[
+  {
+    "UserName": "Ayala",
+    "Balance": 1310,
+    "ActiveInvestments": [],
+    "History": [
+      {
+        "Name": "Mid Term",
+        "Invested": 100,
+        "Returned": 250,
+        "CompletedAt": "2026-01-17T21:54:29.8840737Z"
+      }
+    ],
+    "LastUpdated": "2026-01-17T21:54:29.8840737Z"
+  }
+]

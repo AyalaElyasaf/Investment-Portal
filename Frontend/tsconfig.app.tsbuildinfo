@@ -1,0 +1,1 @@
+{"root":["./src/types.ts","./src/services/api.ts","./src/app.tsx","./src/main.tsx","./src/components/activeinvestmentrow.tsx","./src/components/confirmdialog.tsx","./src/components/investmentrow.tsx","./src/pages/investmentconsole.tsx","./src/pages/loginpage.tsx"],"version":"5.9.3"}
